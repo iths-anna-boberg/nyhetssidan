@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'arial';
+    color: hotpink;
+}
+body {
+    font-family: 'arial';
+    font-size: medium;
+    background-color: lightgray;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: smaller;
+    color: goldenrod;
+}
